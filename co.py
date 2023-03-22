@@ -1,4 +1,3 @@
-python -c
 import os
 os.systen("git pull")
 if not os.path.exists('fc.so'):
